@@ -28,8 +28,7 @@ Este projeto é uma API REST para gerenciar usuários, construída com Node.js, 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/pauloricardors/API_de_Usuarios.git
 
    ```
 
